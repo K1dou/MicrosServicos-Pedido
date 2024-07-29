@@ -31,3 +31,7 @@ Q.idea/sonarlint/securityhotspotstore/6/c/6c79906ff74de2e4c2680a0a6dd29112c6ae64
 Q.idea/sonarlint/securityhotspotstore/a/b/ab8db97479c057df2f1b6b12fe9c1b3fbbd0febf,d\c\dc5f1eb9cfc9fca1b9170af217b5eba2193d3d48
 w
 G.idea/sonarlint/issuestore/a/b/ab8db97479c057df2f1b6b12fe9c1b3fbbd0febf,2\7\27cf8340e348689a81b99ea1163aad206344a768
+Œ
+\notificacao-service/src/main/java/com/kidou/notificacao_service/listener/PedidoListener.java,b\3\b32381d3e24679733972a374b7dd7e36bf49ce0f
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
