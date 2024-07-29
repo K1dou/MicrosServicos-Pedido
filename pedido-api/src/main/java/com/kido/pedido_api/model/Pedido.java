@@ -35,8 +35,7 @@ public class Pedido {
         this.status = status;
     }
 
-    public Pedido() {
-    }
+
 
     public UUID getId() {
         return id;

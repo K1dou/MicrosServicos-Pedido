@@ -12,11 +12,12 @@ public class ItemPedido {
     private UUID id =UUID.randomUUID();
 
     @ManyToOne(cascade = CascadeType.ALL)
-    @JoinColumn(nullable = false,name = "produto_id",foreignKey = @ForeignKey(value = ConstraintMode.CONSTRAINT,name = "produto_fk"))
+    @JoinColumn(name = "produto_id",foreignKey = @ForeignKey(value = ConstraintMode.CONSTRAINT,name = "produto_fk"))
     private Produto produto;
     private Integer quantidade;
 
     @ManyToOne
+    @JoinColumn(name = "pedido_id",foreignKey = @ForeignKey(value = ConstraintMode.CONSTRAINT,name = "pedido_fk"))
     private Pedido pedido;
 
     public Pedido getPedido() {

@@ -81,3 +81,15 @@ Oprocessador/src/main/java/com/kido/processador/repository/PedidoRepository.java
 Sprocessador/src/main/java/com/kido/processador/repository/ItemPedidoRepository.java,2\0\20fe3a1ce0470d470a29958e2033714c21dc97d3
 y
 Iprocessador/src/main/java/com/kido/processador/config/RabbitMQConfig.java,0\0\00d557298af56d0c2ab2b9ab4c81dbe74581176b
+{
+Kprocessador/src/main/java/com/kido/processador/listener/PedidoListener.java,2\9\295dc7c32872980389b40fcbfde12a37d48bc186
+z
+Jprocessador/src/main/java/com/kido/processador/service/ProdutoService.java,0\c\0cc34dc506dd76fefa00f68b323e871ca3bff20a
+y
+Iprocessador/src/main/java/com/kido/processador/service/PedidoService.java,9\f\9f2f5fc999e49ec122b5370cedcfca1816790c43
+}
+Mprocessador/src/main/java/com/kido/processador/service/ItemPedidoService.java,8\5\85f49124a74ff9f309b4c1ac862527af5b3514f1
+r
+Bpedido-api/src/main/java/com/kido/pedido_api/model/ItemPedido.java,2\a\2a28bf555ad6b993dbb70f6dfbc9bc6fe92fd11a
+o
+?pedido-api/src/main/java/com/kido/pedido_api/model/Produto.java,8\8\889e066c821648cba1f60a2f1dae505d65ef1eb7

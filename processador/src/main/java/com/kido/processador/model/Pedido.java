@@ -17,8 +17,10 @@ public class Pedido {
     private UUID id = UUID.randomUUID();
     private String cliente;
 
-    @OneToMany(mappedBy ="pedido" )
+    @OneToMany(mappedBy = "pedido",cascade = CascadeType.ALL)
     private List<ItemPedido> itemPedidos = new ArrayList<>();
+
+
     private Double valorTotal;
     private String emailNotificacao;
     @Enumerated(EnumType.STRING)
