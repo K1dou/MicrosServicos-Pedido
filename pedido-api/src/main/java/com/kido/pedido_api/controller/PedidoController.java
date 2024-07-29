@@ -38,6 +38,8 @@ public class PedidoController {
         logger.info("Pedido recebido: {}", pedido.toString());
         pedidoService.enfileirarPedido(pedido);
 
+
+
         return new ResponseEntity<Pedido>(pedido, HttpStatus.CREATED);
     }
 
