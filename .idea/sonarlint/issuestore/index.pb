@@ -69,3 +69,15 @@ t
 Dprocessador/src/main/java/com/kido/processador/model/ItemPedido.java,b\e\bea4b2535ec3e52d4b3e1dbe64ad8f7f693f5664
 v
 Fprocessador/src/main/java/com/kido/processador/model/enums/Status.java,6\1\61204a519c03461291f0e6a7fa1f8b1d8abe1583
+}
+Mpedido-api/src/main/java/com/kido/pedido_api/repository/PedidoRepository.java,a\3\a3ee1a4aefbd98fc566c4b43628a25b5fdf4d54d
+Å
+Qpedido-api/src/main/java/com/kido/pedido_api/repository/ItemPedidoRepository.java,1\2\124666628e4e30e54462f482d4ecd71313c6add5
+Ä
+Pprocessador/src/main/java/com/kido/processador/repository/ProdutoRepository.java,7\1\718c0e3247d819411ecc9b7913483c58361d239a
+
+Oprocessador/src/main/java/com/kido/processador/repository/PedidoRepository.java,8\a\8a4f1cea45149101fc0be3cbf3b7bc43b867cc05
+É
+Sprocessador/src/main/java/com/kido/processador/repository/ItemPedidoRepository.java,2\0\20fe3a1ce0470d470a29958e2033714c21dc97d3
+y
+Iprocessador/src/main/java/com/kido/processador/config/RabbitMQConfig.java,0\0\00d557298af56d0c2ab2b9ab4c81dbe74581176b
