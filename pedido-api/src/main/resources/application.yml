@@ -4,3 +4,9 @@ spring:
   cloud:
     config:
       profile: pedido-dev
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
